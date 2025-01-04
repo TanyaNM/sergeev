@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(grey, white);
+    color: black;
+    margin: 0;
+}
+
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    font-size:70px;
+   text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+.fd{
+    text-align: center;
+}
+.fg{
+    display: flex;
+    justify-content: center;
+}
+.fg img{
+    border: 6px inset grey;
+}
